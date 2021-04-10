@@ -31,4 +31,4 @@ range.
     ]
     ##############################################
   ```
-- Hit the `>>` buttond, then the `Restart and Run All Cells` and wait a few seconds
+- Hit the `>>` button, then the `Restart and Run All Cells` and wait a few seconds
