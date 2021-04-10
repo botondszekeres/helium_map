@@ -19,7 +19,7 @@ range.
     url = 'https://www.google.com/maps/d/u/0/viewer?mid=1XRWBaTQ8lfD94CyVjmM71D6k5s808Hs5&ll=44.428648689281395%2C26.095210930261587&z=13&fbclid=IwAR3qk2Xtk1kGEZYZLhdqVFPEKeTZlI5nHJeQK2SZ6CS0fjLfFyAkBBk6L_4'
     #############################################
   ```
-- Set the range and Replace the coordinates and names
+- Set the range and replace the coordinates and names
   of the hotspots with the ones you want to simulate.
   Format: list of `([lat, lng], 'name')` separated by commas.
   ```
@@ -31,4 +31,4 @@ range.
     ]
     ##############################################
   ```
-- Hit the `>>` button and wait a few seconds
+- Hit the `>>` buttond, then the `Restart and Run All Cells` and wait a few seconds
