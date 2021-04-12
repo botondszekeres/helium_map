@@ -12,7 +12,7 @@ range.
 ![Bucharest](https://github.com/botondszekeres/helium_map/blob/main/hotspot_details.PNG)
 
 ## Setup
-- Open the following link: https://mybinder.org/v2/gh/botondszekeres/helium_map/c1e22f7ee7ff1bc3e29f1396f270ea4c41419bec?filepath=helium_map.ipynb
+- Open the following link: https://mybinder.org/v2/gh/botondszekeres/helium_map/c898a4d5905ade608aa1b6c2e6d3f91a1eb5b907?filepath=helium_map.ipynb
 - Replace the URL with your map's URL
   ```
     ################# EDIT THIS #################
